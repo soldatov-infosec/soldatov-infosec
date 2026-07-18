@@ -2,13 +2,13 @@
 
 Специализируюсь на исследовании производительности средств защиты информации, разработке инструментов генерации трафика и автоматизации процессов нагрузочного тестирования.
 
-## 📌 Проекты и разработки
+## ⭐ Проекты и разработки
 
-### [RFC9411 Yandex-Tank](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
+### [Yandex-Tank RFC9411 profiles](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
 
-Набор сценариев и скриптов для проведения нагрузочного тестирования в соответствии с RFC 9411 для Yandex Tank.
+Набор профилей нагрузки, сценариев и вспомогательных инструментов для проведения тестирования производительности HTTP/HTTPS в соответствии с RFC9411 для Yandex-Tank.
 
-### [MITRE ATT&CK pcaps](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
+### [MITRE ATT&CK pcaps library](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
 
 Библиотека анонимизированных PCAP-файлов для тестирования NGFW, IDS/IPS, SIEM, NDR, WAF и других средств защиты информации. Репозиторий содержит эталонные профили сетевого трафика и сценарии, соответствующие техникам MITRE ATT&CK.
 
