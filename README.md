@@ -8,4 +8,4 @@
 
 Набор сценариев и скриптов для проведения нагрузочного тестирования в соответствии с RFC 9411 для Yandex Tank.
 
-### [MITRE-ATTACK-pcaps] (https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
+### [MITRE-ATTACK-pcaps](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
