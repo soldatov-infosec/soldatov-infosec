@@ -6,4 +6,6 @@
 
 ### [RFC9411 Yandex-Tank](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
 
-Набор сценариев и инструментов для проведения нагрузочного тестирования в соответствии с RFC 9411 для Yandex Tank.
+Набор сценариев и скриптов для проведения нагрузочного тестирования в соответствии с RFC 9411 для Yandex Tank.
+
+### [MITRE-ATTACK-pcaps] (https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
