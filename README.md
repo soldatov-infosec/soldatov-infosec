@@ -10,6 +10,6 @@
 
 Набор профилей нагрузки, сценариев и вспомогательных инструментов для проведения тестирования производительности HTTP/HTTPS в соответствии с RFC9411 для Yandex-Tank.
 
-### [MITRE ATT&CK pcaps library](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
+### 🛡️ [MITRE ATT&CK pcaps library](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
 
 Библиотека анонимизированных PCAP-файлов для тестирования средств защиты информации. Репозиторий содержит эталонные профили сетевого трафика и сценарии, соответствующие техникам MITRE ATT&CK.
