@@ -4,6 +4,6 @@
 
 ## 🚀 Актуальные проекты
 
-### [RFC9411 Yandex-Tank](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
+### [Yandex-Tank RFC9411 profiles](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
 
 Набор сценариев и инструментов для проведения нагрузочного тестирования в соответствии с RFC 9411 для Yandex Tank.
