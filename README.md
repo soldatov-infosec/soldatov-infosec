@@ -4,11 +4,11 @@
 
 ## 🚀 Актуальные проекты
 
-### [RFC9411 Yandex-Tank](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
+### [RFC9411 Yandex-Tank scripts](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
 
 Набор сценариев и скриптов для проведения нагрузочного тестирования в соответствии с RFC 9411 для Yandex Tank.
 
-### [MITRE ATT&CK pcaps](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
+### [MITRE ATT&CK pcaps library](https://github.com/ArtemSelin/MITRE-ATTACK-pcaps)
 
 Библиотека анонимизированных PCAP-файлов для тестирования NGFW, IDS/IPS, SIEM, NDR, WAF и других средств защиты информации. Репозиторий содержит эталонные профили сетевого трафика и сценарии, соответствующие техникам MITRE ATT&CK.
 
