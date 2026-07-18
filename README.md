@@ -4,7 +4,7 @@
 
 ## ⚡ Проекты и разработки
 
-### 🛠️ [Yandex-Tank RFC9411 profiles](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
+### ⚙️ [Yandex-Tank RFC9411 profiles](https://github.com/soldatov-infosec/rfc9411-yandex-tank)
 
 Набор профилей нагрузки, сценариев и вспомогательных инструментов для проведения тестирования производительности HTTP/HTTPS в соответствии с RFC9411 для Yandex-Tank.
 
